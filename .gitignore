@@ -1,0 +1,13 @@
+HELP.md
+
+### Python venv ###
+.env/
+
+## Temporary Directory ###
+tmp/
+
+### Python cache ###
+app/__pycache__/
+
+### VS Code ###
+.vscode/

@@ -1,0 +1,14 @@
+{
+  "customerId": "testid",
+  "customerPassword": "pass123",
+  "customerLastName": "テスト",
+  "customerFirstName": "太郎",
+  "customerLastKana": "テスト",
+  "customerFirstKana": "タロウ",
+  "customerBirthday": "2000-01-01",
+  "customerTel": "0123456789",
+  "customerAddressId": "698176dc-4028-4638-a452-f00bf62a7781",
+  "customerMail": "a@a.com",
+  "registTime": "2022-07-25T04:37:03.083Z",
+  "updateTime": "2022-07-25T04:37:03.083Z"
+}
